@@ -321,5 +321,4 @@ public class BattleAnimationManager : MonoBehaviour
 
         timerText.transform.localScale = targetScale;
     }
-
 }
